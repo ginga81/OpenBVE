@@ -1727,7 +1727,7 @@ namespace OpenBve
 														System.Globalization.CultureInfo.InvariantCulture) + "x",
 													MessageDependency.None, GameMode.Expert,
 													MessageColor.White,
-													Program.CurrentRoute.SecondsSinceMidnight + 5.0*(double) TimeFactor, null);
+													Program.CurrentRoute.SecondsSinceMidnight + 5.0, null);
 											}
 										}
 										break;
